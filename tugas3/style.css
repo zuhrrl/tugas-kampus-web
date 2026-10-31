@@ -1,0 +1,32 @@
+body {
+    background: rgb(133, 42, 42);
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+hr {
+    border: 0;
+    background: #dedede;
+    height: 1px;
+}
+
+header {
+    width: 100%;
+    top: 0;
+    padding: 5px;
+    text-align: center;
+    background: #1abc9c;
+    color: black;
+    font-size: 30px;
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(203, 236, 14);
+    color: black;
+    text-align: center;
+    font-style:
+}
